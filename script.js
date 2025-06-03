@@ -5,8 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const taskCounter = document.getElementById('taskCounter');
     
     let tasks = [];
-    
-    // Add task event listener
+
     addTaskBtn.addEventListener('click', addTask);
     taskInput.addEventListener('keypress', function(e) {
         if (e.key === 'Enter') {
