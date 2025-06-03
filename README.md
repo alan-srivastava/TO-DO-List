@@ -9,26 +9,18 @@ Modern Dark UI: Elegant black theme with neon accents
 *Task Management:
 
 Add new tasks
-
 Mark tasks as complete
-
 Edit existing tasks
-
 Delete tasks
 
-Real-time Counter: Tracks completed vs total tasks
-
+*Real-time Counter: Tracks completed vs total tasks
 Responsive Design: Works on all device sizes
-
 Smooth Animations: Subtle transitions and hover effects
-
 No Dependencies: Pure vanilla JavaScript implementation
 
 *Technologies Used
+
 HTML5
-
 CSS3 (with custom properties)
-
 JavaScript (ES6)
-
 SVG icons
