@@ -1,5 +1,5 @@
 # TO-DO-List
-[🌐 **Live Demo**](https://alan-srivastava.github.io/TO-DO-List/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-blue?style=for-the-badge&logo=github)](https://alan-srivastava.github.io/TO-DO-List/)
 ![image](https://github.com/user-attachments/assets/9120cafa-ddc5-4292-8937-5634ec81a029)
 A sleek, dark-themed to-do list application with a modern interface and smooth animations — built entirely with HTML, CSS, and vanilla JavaScript (no frameworks or libraries involved).
 
