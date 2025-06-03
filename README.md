@@ -32,6 +32,7 @@ JavaScript (ES6)
 SVG icons
 
 📚 Usage Instructions
+
 ➕ Add Task:
 
 Type your task and hit Enter or click the + button
