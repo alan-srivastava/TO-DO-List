@@ -1,26 +1,50 @@
 # TO-DO-List
 ![image](https://github.com/user-attachments/assets/9120cafa-ddc5-4292-8937-5634ec81a029)
+A sleek, dark-themed to-do list application with a modern interface and smooth animations — built entirely with HTML, CSS, and vanilla JavaScript (no frameworks or libraries involved).
 
-A sleek, dark-themed to-do list application with modern UI elements and smooth animations. Built with pure HTML, CSS, and JavaScript (no frameworks or libraries).
 
-Features
-Modern Dark UI: Elegant black theme with neon accents
+🚀 Features
+🌑 Modern Dark UI – Clean black background with glowing neon accents
 
-*Task Management:
+➕ Add Tasks – Instantly add new items
 
-Add new tasks
-Mark tasks as complete
-Edit existing tasks
-Delete tasks
+✅ Mark as Complete – Click task text to mark it done
 
-*Real-time Counter: Tracks completed vs total tasks
-Responsive Design: Works on all device sizes
-Smooth Animations: Subtle transitions and hover effects
-No Dependencies: Pure vanilla JavaScript implementation
+✏️ Edit Tasks – Modify tasks in place
 
-*Technologies Used
+🗑️ Delete Tasks – Remove items with a single click
 
+📊 Real-time Counter – Displays total vs completed tasks
+
+📱 Responsive Design – Works on all screen sizes
+
+🎯 Smooth Animations – Clean hover & transition effects
+
+🔗 No Dependencies – 100% pure HTML, CSS, and JavaScript
+
+🧪 Technologies Used
 HTML5
-CSS3 (with custom properties)
+
+CSS3 (using custom properties/variables)
+
 JavaScript (ES6)
+
 SVG icons
+
+📚 Usage Instructions
+➕ Add Task:
+
+Type your task and hit Enter or click the + button
+
+✅ Complete Task:
+
+Click the task text to mark as done
+
+✏️ Edit Task:
+
+Click the pencil icon → Enter new task text in the prompt
+
+🗑️ Delete Task:
+
+Click the trash icon → Confirm to remove
+
